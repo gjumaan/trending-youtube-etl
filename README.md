@@ -12,6 +12,7 @@ We have been provided with the dataset of YouTube videos that have been trending
 •	We have performed ETL in three steps:
 
 1.	Extraction: The data has been downloaded from public platform Kaggle, the files used for extraction were originally formatted as .csv and .json:
+
 https://www.kaggle.com/datasnaek/youtube-new#CAvideos.csv
 
 https://www.kaggle.com/datasnaek/youtube-new#USvideos.csv
