@@ -13,9 +13,13 @@ We have been provided with the dataset of YouTube videos that have been trending
 
 1.	Extraction: The data has been downloaded from public platform Kaggle, the files used for extraction were originally formatted as .csv and .json:
 https://www.kaggle.com/datasnaek/youtube-new#CAvideos.csv
+
 https://www.kaggle.com/datasnaek/youtube-new#USvideos.csv
+
 https://www.kaggle.com/datasnaek/youtube-new#US_category_id.json
+
 https://www.kaggle.com/datasnaek/youtube-new#CA_category_id.json
+
 The .csv and .json files are then read into a Pandas data frame in Jupyter notebook.
 
 2.	Transformation: Python has been used as the tool for transformation of datasets using the Pandas Library.
