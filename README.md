@@ -36,7 +36,7 @@ We have been provided with the dataset of YouTube videos trending in Canada (CA)
 
 6. Iterate over "items" list and append the various ids and titles in separate lists to create new dataframes.
 
-7. Merge the United States (US) and Canadian (CA) video databases with respective category dataframes. 
+7. Merge the US and CA video databases with respective category dataframes. 
 
 8. Once merged, add "country" column to merged dataframes to specify which country the data originates from more clearly.
 
