@@ -11,7 +11,7 @@ https://www.kaggle.com/datasnaek/youtube-new
 •	Methodology:
 We have been provided with the dataset of YouTube videos trending in Canada (CA) and the United States (US) along with the dataset of various categories they are belonging to. We are required to perform an ETL on the datasets which can be uploaded into production to determine which categories or video are most or least popular after depending on number of views, likes, dislikes and comments.
 
-•	We have performed ETL in three steps:
+•	We performed ETL in the following steps:
 
 **Extraction**: 
 1. Download the following data files from public platform Kaggle. 
