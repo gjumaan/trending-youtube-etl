@@ -29,3 +29,7 @@ The .csv and .json files are then read into a Pandas data frame in Jupyter noteb
 
 3.	Loading: Relational database PostgresSQL has been used to load the data.
 
+Then we establish a connection between SQL database youtube_db using create_engine() in SQLAlchemy library, where we have created three tables merged_us, merged_ca & combined_us_ca. Then load the data frames we have in the tables to be used for production.
+
+
+
