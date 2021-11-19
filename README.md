@@ -1,5 +1,7 @@
 Trending YouTube videos-ETL
 
+Project team members : Shreyansh Saraiya, Anji Asthana, Jumaan George
+
 •	Objective:
 The objective is to perform the ETL(Extract-Transform-Load) process by reading the dataset of Trending YouTube videos obtained from Kaggle, cleaning the dataset in the desired form and loading into a database for storage.
 
